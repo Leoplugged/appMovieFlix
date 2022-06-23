@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/leandro.almeida/Documents/programaCatalisa/module6 - Arquitetura/Aula51/ArquiteturaAndroid/MovieFlix/app/src/main/res/layout/activity_home.xml" value="0.1859375" />
+        <entry key="..\:/Users/leandro.almeida/Documents/programaCatalisa/module6 - Arquitetura/Aula51/ArquiteturaAndroid/MovieFlix/app/src/main/res/layout/activity_login.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/leandro.almeida/Documents/programaCatalisa/module6 - Arquitetura/Aula51/ArquiteturaAndroid/MovieFlix/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.2828125" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2833333333333333" />

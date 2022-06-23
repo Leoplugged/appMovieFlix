@@ -7,7 +7,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import br.com.zup.movieflix.databinding.ActivityLoginBinding
 import br.com.zup.movieflix.home.view.HomeActivity
-import br.com.zup.movieflix.home.viewmodel.HomeViewModel
 import br.com.zup.movieflix.login.model.LoginModel
 import br.com.zup.movieflix.login.viewmodel.LoginViewModel
 import br.com.zup.movieflix.register.view.RegisterActivity
